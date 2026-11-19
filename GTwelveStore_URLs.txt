@@ -1,0 +1,24 @@
+GTwelveStore | URLs do catálogo
+
+Banners inicial e final: 1122 × 1402 px. Banners das seções: 1080 × 608 px.
+
+
+IDENTIDADE DA LOJA
+Logo da loja = https://ik.imagekit.io/verlcwgen/Logotipo%20GTWELVE%20STORE%20em%20fundo%20transparente.png
+
+ABERTURA E ENCERRAMENTO
+Banner inicial = https://ik.imagekit.io/verlcwgen/Banner%20GTWELVE%20Store%20em%20preto%20e%20verde.png
+Banner final = https://ik.imagekit.io/verlcwgen/Cuidados%20com%20camisas%20de%20time.png
+
+LIGAS E COLEÇÕES
+COPA DO MUNDO - SELEÇÕES = https://ik.imagekit.io/verlcwgen/01_COPA_DO_MUNDO(2).webp
+CAMPEONATO BRASILEIRO = https://ik.imagekit.io/verlcwgen/02_CAMPEONATO_BRASILEIRO(2).webp
+CAMPEONATO ESPANHOL - LA LIGA = https://ik.imagekit.io/verlcwgen/03_CAMPEONATO_ESPANHOL(2).webp
+CAMPEONATO INGLÊS - PREMIER LEAGUE = https://ik.imagekit.io/verlcwgen/04_CAMPEONATO_INGLES(2).webp
+CAMPEONATO ITALIANO - SERIE A = https://ik.imagekit.io/verlcwgen/05_CAMPEONATO_ITALIANO(2).webp
+CAMPEONATO ALEMÃO - BUNDESLIGA = https://ik.imagekit.io/verlcwgen/06_CAMPEONATO_ALEMAO(2).webp
+CAMPEONATO FRANCÊS - LIGUE 1 = https://ik.imagekit.io/verlcwgen/07_CAMPEONATO_FRANCES(2).webp
+TIMES DA AMÉRICA = https://ik.imagekit.io/verlcwgen/08_TIMES_DA_AMERICA(2).webp
+RESTO DO MUNDO = https://ik.imagekit.io/verlcwgen/09_RESTO_DO_MUNDO(2).webp
+NBA = https://ik.imagekit.io/verlcwgen/Regatas%20NBA%20em%20Neon%20Mint%20Green.png
+OUTRAS COLEÇÕES = https://ik.imagekit.io/verlcwgen/10_OUTRAS_COLECOES(1).webp
